@@ -88,6 +88,9 @@ exclude:
   - LICENCE
   - README.md
   - CNAME
+  - node_modules/
+  - package.json
+  - start.admin.sh
 
 # Add default frontmatter to collections
 defaults:

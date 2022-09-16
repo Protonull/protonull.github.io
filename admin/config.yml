@@ -1,0 +1,38 @@
+backend:
+  name: proxy
+  proxy_url: http://localhost:8314/api/v1 # Port must be the same as the value in start.admin.sh
+  branch: master
+
+media_folder: "uploads/"
+public_folder: "/uploads/"
+
+collections:
+  #######################################################
+  ## Councils
+  #######################################################
+  - name: "posts"
+    label: "Posts"
+    label_singular: "Post"
+    folder: "_posts/"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    editor:
+      preview: false
+    sortable_fields: ["slug"]
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        required: true
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+        default: []
+        hint: "Use commas to separate categories"
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+        required: true
+        hint: "You do not need to include the title in the body."
