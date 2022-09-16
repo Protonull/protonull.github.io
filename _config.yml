@@ -89,3 +89,15 @@ exclude:
   - README.md
   - CNAME
 
+# Add default frontmatter to collections
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
