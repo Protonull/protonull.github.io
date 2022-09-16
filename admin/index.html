@@ -6,6 +6,17 @@
         <title>Content Manager</title>
     </head>
     <body>
+        <script>
+            const _fetch = fetch;
+            window.fetch = function fetch(resource, options = {}) {
+                options.headers ??= {};
+                options.headers["Access-Control-Allow-Origin"] = "*";
+                options.headers["Access-Control-Request-Headers"] = "*";
+                options.headers["Access-Control-Request-Method"] = "*";
+                console.log("Requesting: " + resource);
+                return _fetch(resource, options);
+            }
+        </script>
         <!-- Include the script that builds the page and powers Netlify CMS -->
         <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
     </body>
