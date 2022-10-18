@@ -4,7 +4,7 @@ categories:
 - Orinnari
 excerpt: Please backup your instances and uninstall PolyMC.
 ---
-Please backup your instances, uninstall PolyMC, and [revoke its consent]((https://microsoft.com/consent/)). If, however, you are content to keep PolyMC then it's recommended to do the following:
+Please backup your instances, uninstall PolyMC, and [revoke its consent](https://microsoft.com/consent/). If, however, you are content to keep PolyMC then it's recommended to do the following:
 
 - Update the Microsoft API Key (Settings → APIs → API Keys → Microsoft Authentication) to `c36a9fb6-4f2a-41ff-90bd-ae7cc92031eb` ([Reference](https://discord.com/channels/1031648380885147709/1031839576102285312/1031872355510788237)). You wont be able to login otherwise.
 
@@ -14,7 +14,7 @@ Please backup your instances, uninstall PolyMC, and [revoke its consent]((https:
 
 - Disable auto-updates, which is a little trickier. You'll need to close PolyMC and ALL instances that may be running, then you need to access the `polymc.cfg` file with a text editor and change the `AutoUpdate=true` line to `AutoUpdate=false` and save. You may be able to find the file via a search, but you should ordinarily be able to find the file by clicking "Instance Folder" in the sidebar of PolyMC and going up two folders. Remember to close PolyMC before opening the file.
 
-The ousted developers have created a new fork, the Prism Launcher ([Github](https://github.com/PrismLauncher)).
+The ousted developers have created a new fork, the Prism Launcher ([Github](https://github.com/PrismLauncher), [Discord](https://discord.gg/prismlauncher)).
 
 ---
 
