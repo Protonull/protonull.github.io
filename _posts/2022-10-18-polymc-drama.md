@@ -6,7 +6,7 @@ excerpt: Please backup your instances and uninstall PolyMC.
 ---
 **PolyMC has been compromised!**
 
-Please backup your instances and uninstall PolyMC and go to [https://account.live.com/consent/](https://account.live.com/consent/) and revoke consent for PolyMC.
+Please backup your instances and uninstall PolyMC and go to [https://microsoft.com/consent/](https://microsoft.com/consent/) and revoke consent for PolyMC.
 
 However, if you are set on keeping PolyMC then it's recommended to change your metadata server (Settings → APIs → Services → Metadata Server) to `https://meta.scrumplex.rocks/v1/` and your user agent (Settings → APIs → Miscellaneous → User Agent) to something innocuous like `Foobar`. You should also disable auto-updates, which is a little trickier. You need to close PolyMC and ALL instances that may be running, then you need to access the `polymc.cfg` file with a text editor and change `AutoUpdate=true` to `AutoUpdate=false` and save. You may be able to find the file via a search, but you should ordinarily be able to find the file by clicking "Instance Folder" in the sidebar of PolyMC and going up two folders, then [re]close PolyMC before opening the file.
 
