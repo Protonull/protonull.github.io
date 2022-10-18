@@ -57,8 +57,6 @@ At 1:10pm, cozyGalvinism announced in the Prism Community Discord that they've r
 
 At 3:18pm, LennyMcLennington made a series of announcements in the PolyMC Discord stating that no malicious code had been added to PolyMC; that people are free to choose other launchers or change the settings within PolyMC; and that he will personally check any and all new contributions. ([Reference](https://discord.com/channels/923671181020766230/923672379144671263/1031934382967107644))
 
-Update: At roughly 8:30pm, I was banned from the PolyMC Discord, so there may not be anymore updates regarding PolyMC from here on out. For context, all of the PolyMC Discord's public text channels had been locked since the night before as they were being inundated with extremely Terms-of-Service-breaking content. In the last hour or so, Lenny attempted to open some new text channels, but they too were similarly inundated. He first tried limiting message history to deliberately evade reports to Discord, but he soon deleted the channel altogether. He then attempted to create another channel, warning people that they'll be banned for breaking the TOS, but this had little to no effect. I got banned for sarcastically saying how could've anyone predicted that a deliberate ousting of "leftoids" would foster such a lovely atmosphere full of pleasant people with very peaceful and tolerant views. I suppose he didn't find that funny. I suppose he's not such a fan on trolling when it's against him. Interesting.
-
 ---
 
 It's unclear what specifically triggered LennyMcLennington. Though his propensities were hinted at in various places, like naming a commit "penis", recommending a troll theme for PolyMC, and his email being `lenny@sneed.church`, but this was nonetheless rather drastic and will inevitably haunt his reputation. Similarly, the offhanded way they say *"there is still an interest in continuing the project in some form"* suggests a bleak future for PolyMC too.
@@ -66,6 +64,14 @@ It's unclear what specifically triggered LennyMcLennington. Though his propensit
 It's still possible, perhaps, that LennyMcLennington's account was hacked, but it's more likely that this was a coup. For this reason I have to agree with the sentiments of the Prism Launcher developers that PolyMC is no longer safe to install and use: you don't want to have auto-updating software on your computer made by someone who'll coup their development team over pride flag emojis on the project's Discord server.
 
 In the meantime while Prism Launcher gets itself established, here are some alternative launchers you can use: [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [ATLauncher](https://atlauncher.com/).
+
+---
+
+Update: At roughly 8:30pm, I was banned from the PolyMC Discord, so there may not be anymore updates regarding PolyMC from here on out.
+
+For context, all of the PolyMC Discord's public text channels were locked since they concluded 'laughing their asses off in vc' since they were all being inundated with extremely Terms-of-Service-breaking content. In the last hour or so, Lenny attempted to open some new text channels, but they too were likewise inundated. He first tried limiting message history with the intention of avoiding reports to Discord, but he soon deleted the channel altogether. He then attempted to create another channel, warning people that they'll be banned for breaking the Terms of Service, but this had little to no effect.
+
+I got banned for sarcastically praising Lenny's good work and how nobody could've possibly predicted that deliberately purging "leftoids" would foster such a lovely atmosphere full of pleasant people with very peaceful and tolerant views. I suppose he didn't find that funny. I suppose he's not such a fan on trolling when it's against him. Interesting.
 
 ---
 
