@@ -14,7 +14,7 @@ Please backup your instances, uninstall PolyMC, and [revoke its consent](https:/
 
 - Disable auto-updates, which is a little trickier. You'll need to close PolyMC and ALL instances that may be running, then you need to access the `polymc.cfg` file with a text editor and change the `AutoUpdate=true` line to `AutoUpdate=false` and save. You may be able to find the file via a search, but you should ordinarily be able to find the file by clicking "Instance Folder" in the sidebar of PolyMC and going up two folders. Remember to close PolyMC before opening the file.
 
-The ousted developers have created a new fork, the Prism Launcher ([Github](https://github.com/PrismLauncher), [Discord](https://discord.gg/prismlauncher)).
+The ousted developers have created a new fork, the [Prism Launcher](https://prismlauncher.org/) ([Github](https://github.com/PrismLauncher), [Discord](https://discord.gg/prismlauncher)).
 
 ---
 
@@ -71,7 +71,7 @@ Update: At roughly 8:30pm, I was banned from the PolyMC Discord, so there may no
 
 For context, all of the PolyMC Discord's public text channels were locked since they concluded 'laughing their asses off in vc' since they were all being inundated with extremely Terms-of-Service-breaking content. In the last hour or so, Lenny attempted to open some new text channels, but they too were likewise inundated. He first tried limiting message history with the intention of avoiding reports to Discord, but he soon deleted the channel altogether. He then attempted to create another channel, warning people that they'll be banned for breaking the Terms of Service, but this had little to no effect.
 
-I got banned for sarcastically praising Lenny's good work and how nobody could've possibly predicted that deliberately purging "leftoids" would foster such a lovely atmosphere full of pleasant people with very peaceful and tolerant views. I suppose he didn't find that funny. I suppose he's not such a fan on trolling when it's against him. Interesting.
+I got banned for sarcastically praising Lenny's good work and how nobody could've possibly predicted that publicly purging "leftoids" would foster such a lovely atmosphere full of pleasant people with very peaceful and tolerant views. I suppose he didn't find that funny. I suppose he's not such a fan on trolling when it's against him. Interesting.
 
 ---
 
